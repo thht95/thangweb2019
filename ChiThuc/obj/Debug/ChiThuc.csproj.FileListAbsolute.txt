@@ -1,0 +1,277 @@
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\ApplicationInsights.config
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\csc.exe
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\vbc.exe
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\ChiThuc.dll.config
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\ChiThuc.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\ChiThuc.pdb
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.Web.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.Web.xml
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\obj\Debug\ChiThuc.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\obj\Debug\ChiThuc.dll
+C:\Users\Nguyen Ba Thai\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\obj\Debug\ChiThuc.pdb
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\ApplicationInsights.config
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\csc.exe
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\vbc.exe
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\VBCSCompiler.exe
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\ChiThuc.dll.config
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\ChiThuc.dll
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\ChiThuc.pdb
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.Web.dll
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.Web.xml
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\obj\Debug\ChiThuc.csprojResolveAssemblyReference.cache
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\obj\Debug\ChiThuc.dll
+C:\Users\ELC-02\Documents\Visual Studio 2015\Projects\ChiThuc\ChiThuc\obj\Debug\ChiThuc.pdb
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\ApplicationInsights.config
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\csc.exe
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\vbc.exe
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\ChiThuc.dll.config
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\ChiThuc.dll
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\ChiThuc.pdb
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.Web.dll
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.Web.xml
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\obj\Debug\ChiThuc.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\obj\Debug\ChiThuc.dll
+C:\Users\Nguyen Ba Thai\Downloads\ChiThuc\ChiThuc\ChiThuc\obj\Debug\ChiThuc.pdb
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\ChiThuc.dll.config
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\ChiThuc.dll
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\ChiThuc.pdb
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\obj\Debug\ChiThuc.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\obj\Debug\ChiThuc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\obj\Debug\ChiThuc.csproj.CopyComplete
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\obj\Debug\ChiThuc.dll
+C:\Users\Admin\Desktop\ASP.NET\ChiThuc\ChiThuc\ChiThuc\ChiThuc\obj\Debug\ChiThuc.pdb
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\ApplicationInsights.config
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\roslyn\csc.exe
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\roslyn\System.Collections.Immutable.dll
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\roslyn\System.Reflection.Metadata.dll
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\roslyn\vbc.exe
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\roslyn\VBCSCompiler.exe
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\roslyn\VBCSCompiler.exe.config
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\ChiThuc.dll.config
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\ChiThuc.dll
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\ChiThuc.pdb
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\Microsoft.AI.DependencyCollector.dll
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\Microsoft.AI.Web.dll
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\Microsoft.AI.WindowsServer.dll
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\Microsoft.ApplicationInsights.dll
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\Microsoft.AI.DependencyCollector.xml
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\Microsoft.AI.Web.xml
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\Microsoft.AI.WindowsServer.xml
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\Microsoft.ApplicationInsights.xml
+D:\TH_ASP.NET\ChiThuc\ChiThuc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TH_ASP.NET\ChiThuc\ChiThuc\obj\Debug\ChiThuc.csproj.CoreCompileInputs.cache
+D:\TH_ASP.NET\ChiThuc\ChiThuc\obj\Debug\ChiThuc.csproj.CopyComplete
+D:\TH_ASP.NET\ChiThuc\ChiThuc\obj\Debug\ChiThuc.dll
+D:\TH_ASP.NET\ChiThuc\ChiThuc\obj\Debug\ChiThuc.pdb
+D:\TH_ASP.NET\ChiThuc\ChiThuc\obj\Debug\ChiThuc.csprojAssemblyReference.cache
+D:\BTL\ChiThuc\ChiThuc\bin\ApplicationInsights.config
+D:\BTL\ChiThuc\ChiThuc\bin\roslyn\csc.exe
+D:\BTL\ChiThuc\ChiThuc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BTL\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BTL\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BTL\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BTL\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BTL\ChiThuc\ChiThuc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BTL\ChiThuc\ChiThuc\bin\roslyn\System.Collections.Immutable.dll
+D:\BTL\ChiThuc\ChiThuc\bin\roslyn\System.Reflection.Metadata.dll
+D:\BTL\ChiThuc\ChiThuc\bin\roslyn\vbc.exe
+D:\BTL\ChiThuc\ChiThuc\bin\roslyn\VBCSCompiler.exe
+D:\BTL\ChiThuc\ChiThuc\bin\roslyn\VBCSCompiler.exe.config
+D:\BTL\ChiThuc\ChiThuc\bin\ChiThuc.dll.config
+D:\BTL\ChiThuc\ChiThuc\bin\ChiThuc.dll
+D:\BTL\ChiThuc\ChiThuc\bin\ChiThuc.pdb
+D:\BTL\ChiThuc\ChiThuc\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BTL\ChiThuc\ChiThuc\bin\Microsoft.AI.DependencyCollector.dll
+D:\BTL\ChiThuc\ChiThuc\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BTL\ChiThuc\ChiThuc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BTL\ChiThuc\ChiThuc\bin\Microsoft.AI.Web.dll
+D:\BTL\ChiThuc\ChiThuc\bin\Microsoft.AI.WindowsServer.dll
+D:\BTL\ChiThuc\ChiThuc\bin\Microsoft.ApplicationInsights.dll
+D:\BTL\ChiThuc\ChiThuc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BTL\ChiThuc\ChiThuc\bin\Microsoft.AI.DependencyCollector.xml
+D:\BTL\ChiThuc\ChiThuc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BTL\ChiThuc\ChiThuc\bin\Microsoft.AI.Web.xml
+D:\BTL\ChiThuc\ChiThuc\bin\Microsoft.AI.WindowsServer.xml
+D:\BTL\ChiThuc\ChiThuc\bin\Microsoft.ApplicationInsights.xml
+D:\BTL\ChiThuc\ChiThuc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BTL\ChiThuc\ChiThuc\obj\Debug\ChiThuc.csprojAssemblyReference.cache
+D:\BTL\ChiThuc\ChiThuc\obj\Debug\ChiThuc.csproj.CoreCompileInputs.cache
+D:\BTL\ChiThuc\ChiThuc\obj\Debug\ChiThuc.csproj.CopyComplete
+D:\BTL\ChiThuc\ChiThuc\obj\Debug\ChiThuc.dll
+D:\BTL\ChiThuc\ChiThuc\obj\Debug\ChiThuc.pdb
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\ApplicationInsights.config
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\csc.exe
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\System.Collections.Immutable.dll
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\System.Reflection.Metadata.dll
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\vbc.exe
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\VBCSCompiler.exe
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\VBCSCompiler.exe.config
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\ChiThuc.dll.config
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\ChiThuc.dll
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\ChiThuc.pdb
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.DependencyCollector.dll
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.Web.dll
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.WindowsServer.dll
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.ApplicationInsights.dll
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.DependencyCollector.xml
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.Web.xml
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.WindowsServer.xml
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.ApplicationInsights.xml
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\obj\Debug\ChiThuc.csprojAssemblyReference.cache
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\obj\Debug\ChiThuc.csproj.CoreCompileInputs.cache
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\obj\Debug\ChiThuc.csproj.CopyComplete
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\obj\Debug\ChiThuc.dll
+D:\DB\BTLwebnc\ChiThuc\ChiThuc\obj\Debug\ChiThuc.pdb
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\ApplicationInsights.config
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\csc.exe
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\vbc.exe
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\VBCSCompiler.exe
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\ChiThuc.dll
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\ChiThuc.pdb
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.Web.dll
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\mscorlib.dll
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.Web.xml
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\normidna.nlp
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\normnfc.nlp
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\normnfd.nlp
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\normnfkc.nlp
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\bin\normnfkd.nlp
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\obj\Debug\ChiThuc.csprojResolveAssemblyReference.cache
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\obj\Debug\ChiThuc.dll
+C:\Users\buihu\Desktop\BTLwebnc\ChiThuc\ChiThuc\obj\Debug\ChiThuc.pdb

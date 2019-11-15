@@ -28,7 +28,12 @@
                         </asp:TemplateField>
 
                         <asp:BoundField DataField="donGia" HeaderText="Giá bán" />
-                        <asp:BoundField DataField="soLuong" HeaderText="Số lượng" />
+                        <asp:TemplateField HeaderText="Số lượng">
+                            <ItemTemplate>
+                                <input type="number" value="<%# Eval("soLuong") %>" />
+                            </ItemTemplate>
+                        </asp:TemplateField>
+
                         
                         <asp:TemplateField HeaderText="Thành tiền">
                             <ItemTemplate>

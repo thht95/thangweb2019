@@ -43,6 +43,9 @@ namespace ChiThuc
             {
                 createDonHang();
                 createChiTietHoaDon();
+                List<DsSanPham> arr = getAllSachs();
+
+                Application["sanpham"] = arr;
             }
         }
 
@@ -105,6 +108,45 @@ namespace ChiThuc
                 }
             }
         }
+
+        private DataTable getAllSach()
+        {
+            string connectionString = ConfigurationManager.ConnectionStrings["QuanLyBanSach"].ConnectionString;
+            using (SqlConnection cnn = new SqlConnection(connectionString))
+            {
+                using (SqlCommand cmd = new SqlCommand("sachSelectAll", cnn))
+                {
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    using (SqlDataAdapter da = new SqlDataAdapter(cmd))
+                    {
+                        DataTable dt = new DataTable();
+                        da.Fill(dt);
+                        return dt;
+                    }
+                }
+            }
+        }
+
+        private List<DsSanPham> getAllSachs()
+        {
+            List<DsSanPham> sachList = new List<DsSanPham>();
+            sachList = (from DataRow row in getAllSach().Rows
+                        select new DsSanPham
+                        {
+                            masach = Convert.ToInt32(row["MaSach"].ToString()),
+                            tensach = row["TenSach"].ToString(),
+                            mota = row["MoTa"].ToString(),
+                            anhbia = row["AnhBia"].ToString(),
+                            giaban = Convert.ToSingle(row["GiaBan"].ToString()),
+                            ngayCapNhap = Convert.ToDateTime(row["NgayCapNhat"].ToString()),
+                            soLuongTon = Convert.ToInt32(row["SoLuongTon"].ToString()),
+                            maChuDe = Convert.ToInt32(row["MaChuDe"].ToString()),
+                            maNXB = Convert.ToInt32(row["maNXB"].ToString()),
+                            solanban = Convert.ToInt32(row["SoLanBan"].ToString())
+                        }).ToList();
+            return sachList;
+        }
+
 
         private int layMaDHMax()
         {

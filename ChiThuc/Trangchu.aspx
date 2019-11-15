@@ -43,6 +43,8 @@ New Products
                                         <asp:Label ID="lbTenSachNew" runat="server" ><%# Eval("tensach") %></asp:Label>
                                         <br />
                                         <asp:Label ID="lbGiaBanNew" runat="server"><strong><%# Eval("giaban") %>đ</strong></asp:Label>
+                                        <asp:Label ID="Label1" runat="server"><strong><%# Eval("solanban") %> đã mua </strong></asp:Label>
+
                                         <br />
                                         <asp:Button runat="server" CommandArgument='<%# Eval("masach") %>' CssClass="shopBtn" OnClick="btnthemsanpham_Click" Text="Thêm vào giỏ hàng" />
 
@@ -77,6 +79,7 @@ New Products
                                         <br />
                                         <asp:Label ID="lbGiaBan" runat="server"><strong><%# Eval("giaban") %>đ</strong></asp:Label>
                                         <br />
+                                        <asp:Label ID="Label1" runat="server"><strong><%# Eval("solanban") %> đã mua </strong></asp:Label>
                                         <%--<asp:Button ID="ibtMuaHang" runat="server" CommandArgument='<%# Eval("masach") %>' CommandName="ibtMuaHang" CssClass="shopBtn" Text="Thêm vào giỏ hàng" OnClick="btnthemsanpham_Click"/>--%>
                                         <asp:Button runat="server" CommandArgument='<%# Eval("masach") %>' CssClass="shopBtn" OnClick="btnthemsanpham_Click" Text="Thêm vào giỏ hàng" />
 

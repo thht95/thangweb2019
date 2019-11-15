@@ -24,6 +24,7 @@
                                     <div class="caption cntr">
                                         <p><%# Eval("tensach") %></p>
                                         <p><strong><%# Eval("giaban") %>đ</strong></p>
+                                        <p><strong><%# Eval("solanban") %> người đã mua</strong></p>
                                         <asp:Button runat="server" CommandArgument='<%# Eval("masach") %>' CssClass="shopBtn" OnClick="btnthemsanpham_Click" Text="Thêm vào giỏ hàng" ID="ibtMuaHang" CommandName="ibtMuaHang" />
                                     </div>
                                 </div>

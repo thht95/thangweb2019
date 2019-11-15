@@ -14,12 +14,13 @@ using System.Web;
     public int soLuongTon { get; set; }
     public int maChuDe { get; set; }
     public int maNXB { get; set; }
+    public int solanban { get; set; }
     public DsSanPham()
         {
 
         }
 
-    public DsSanPham(int masach, string tensach, string mota, string anhbia, float giaban, DateTime ngayCapNhap, int soLuongTon, int maChuDe, int maNXB)
+    public DsSanPham(int masach, string tensach, string mota, string anhbia, float giaban, DateTime ngayCapNhap, int soLuongTon, int maChuDe, int maNXB, int solanban)
     {
         this.masach = masach;
         this.tensach = tensach;
@@ -30,5 +31,6 @@ using System.Web;
         this.soLuongTon = soLuongTon;
         this.maChuDe = maChuDe;
         this.maNXB = maNXB;
+        this.solanban = solanban;
     }
 }

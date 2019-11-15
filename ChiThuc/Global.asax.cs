@@ -44,7 +44,7 @@ namespace ChiThuc
                             soLuongTon = Convert.ToInt32(row["SoLuongTon"].ToString()),
                             maChuDe = Convert.ToInt32(row["MaChuDe"].ToString()),
                             maNXB = Convert.ToInt32(row["maNXB"].ToString()),
-
+                            solanban = Convert.ToInt32(row["SoLanBan"].ToString())
                         }).ToList();
             return sachList;
         }

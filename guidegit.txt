@@ -3,3 +3,7 @@ git bash here
 go: git pull origin master
 link git: https://github.com/thht95/thangweb2019/commits/master
 hello
+
+
+alter table sach
+add SoLanBan int default 0

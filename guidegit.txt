@@ -4,6 +4,27 @@ go: git pull origin master
 link git: https://github.com/thht95/thangweb2019/commits/master
 hello
 
-
+go
 alter table sach
 add SoLanBan int default 0
+
+
+go
+ALTER proc [dbo].[createCTDH]
+@MaDH int,
+@ms int,
+@soluong int,
+@dongia float
+as
+begin
+insert into [dbo].[ChiTietDonHang] values(@MaDH,@ms,@soluong,@dongia)
+update SACH
+set
+	SoLanBan = SoLanBan + 1
+where
+	MaSach = @ms
+end
+
+update sach
+set 
+solanban = 0

@@ -38,6 +38,12 @@ namespace ChiThuc
             List<DsSanPham> arr = (List<DsSanPham>)Application["sanpham"];
             List<DsSanPham> arrFeaturedProducts = new List<DsSanPham>();
             List<DsSanPham> arrNewProducts = new List<DsSanPham>();
+            var search = Request.QueryString["search"];
+            if (!string.IsNullOrEmpty(search))
+            {
+                arr = arr.Where(x => x.tensach.Contains(Request.QueryString["search"])).ToList();
+            }
+
             foreach (DsSanPham sp in arr)
             {
                 int soluong = sp.soLuongTon;
@@ -56,10 +62,6 @@ namespace ChiThuc
 
             ListViewNewProducts.DataSource = arrNewProducts;
             ListViewNewProducts.DataBind();
-
-
-
-
         }
 
         protected void btnthemsanpham_Click(object sender, EventArgs e)
